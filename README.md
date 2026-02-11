@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Lalu Ahmad Naufal</h1>
+<h1 align="center">👋 Hi, I'm Lalu Ahmad Naufal Gina Gahara</h1>
 
 <h3 align="center">
 🎓 Informatics Graduate | 🔎 Quality Assurance Engineer  
@@ -28,7 +28,7 @@ I am continuously improving my skills in automation, performance testing, and te
 <img src="https://img.shields.io/badge/Test_Case_Design_&_Documentation-2196F3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bug_Reporting_&_Defect_Lifecycle-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API_Testing_(Postman)-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation_Testing_(Selenium,_Mocha,_Chai)-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation_Testing_(Selenium,_Mocha,_Chai,_Assert)-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Performance_Testing_(JMeter)-D22128?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Version_Control_(Git_&_GitHub)-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -53,11 +53,11 @@ This combination of development and testing experience enables me to contribute 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaluAhmadNaufal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaluAhmadNaufal03&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaluAhmadNaufal&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaluAhmadNaufal03&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
