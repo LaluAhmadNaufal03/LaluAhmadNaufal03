@@ -6,7 +6,7 @@ Manual & Automation Testing
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LaluAhmadNaufal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LaluAhmadNaufal03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
